@@ -85,9 +85,20 @@
 - Python 3.8 or higher
 - pip package manager
 
-### Installation
+## 1. Push code to GitHub
+git add .
+git commit -m "Ready for deployment"
+git push
 
-```bash
+# 2. Go to share.streamlit.io
+# 3. Connect GitHub account
+# 4. Select this repository
+# 5. Configure:
+#    - Main file: app.py
+#    - Python version: 3.9
+# 6. Click "Deploy"
+Your app will be live at: https://your-app-name.streamlit.app
+
 # Clone the repository
 git clone https://github.com/Bhavana998/AI-Period-Wellness-Tracker.git
 cd AI-Period-Wellness-Tracker
