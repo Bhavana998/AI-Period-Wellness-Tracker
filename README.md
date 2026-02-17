@@ -1,4 +1,4 @@
- deployment link: https://ai-period-wellness-tracker-xcv3nylpfozibyb9niyvgz.streamlit.app/
+# deployment link: https://ai-period-wellness-tracker-xcv3nylpfozibyb9niyvgz.streamlit.app/
 <div align="center">
   
   # 🌸 AI-Powered Period & Wellness Tracker
@@ -32,10 +32,6 @@
     <a href="#-demo">Demo</a> •
     <a href="#-contributing">Contributing</a>
   </h3>
-
-  <br>
-
-  <img src="https://via.placeholder.com/800x400.png?text=AI+Period+Wellness+Tracker+Dashboard" alt="Dashboard Preview" width="80%"/>
 
 ---
 
