@@ -152,32 +152,32 @@ Identifies	Trigger foods, optimal nutrition
 Features	Calories, protein, fiber, water intake
 File	models/nutrition_predictor.py
                                                            
-                                                        📁 Project Structure                       
-                                                        AI-Period-Wellness-Tracker/
-                                                        │
-                                                        ├── app.py                 # Main Streamlit application
-                                                        ├── requirements.txt       # Python dependencies
-                                                        ├── README.md              # Documentation
-                                                        ├── .gitignore             # Git ignore rules
-                                                        │
-                                                        ├── models/                 # ML Models
-                                                        │   ├── __init__.py
-                                                        │   ├── pain_predictor.py
-                                                        │   ├── cycle_predictor.py
-                                                        │   └── nutrition_predictor.py
-                                                        │
-                                                        ├── data/                   # Data Management
-                                                        │   ├── __init__.py
-                                                        │   ├── data_manager.py     # Handles all data operations
-                                                        │   └── food_database.py    # Food recommendations
-                                                        │
-                                                        ├── utils/                   # Helper Functions
-                                                        │   ├── __init__.py
-                                                        │   ├── helpers.py          # Cycle phase calculation
-                                                        │   └── nutrition_utils.py  # Nutrition analysis
-                                                        │
-                                                             └── ml_models/               # Saved Models
-                                                             └── saved_models/        # Trained model files (.pkl)
+                        📁 Project Structure                       
+                        AI-Period-Wellness-Tracker/
+                        │
+                        ├── app.py                 # Main Streamlit application
+                        ├── requirements.txt       # Python dependencies
+                        ├── README.md              # Documentation
+                        ├── .gitignore             # Git ignore rules
+                        │
+                        ├── models/                 # ML Models
+                    │   ├── __init__.py
+                    │   ├── pain_predictor.py
+                    │   ├── cycle_predictor.py
+                    │   └── nutrition_predictor.py
+                    │
+                    ├── data/                   # Data Management
+                    ├── __init__.py
+                    │   ├── data_manager.py     # Handles all data operations
+                    │   └── food_database.py    # Food recommendations
+                    │
+                    ├── utils/                   # Helper Functions
+                    │   ├── __init__.py
+                    │   ├── helpers.py          # Cycle phase calculation
+                    │   └── nutrition_utils.py  # Nutrition analysis
+                    │
+                         └── ml_models/               # Saved Models
+                         └── saved_models/        # Trained model files (.pkl)
 
     
 📊 How to Use
