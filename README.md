@@ -37,15 +37,6 @@
 
   <img src="https://via.placeholder.com/800x400.png?text=AI+Period+Wellness+Tracker+Dashboard" alt="Dashboard Preview" width="80%"/>
 
-  <br>
-  <br>
-
-  **[🌐 View Live Demo](https://your-app-url.streamlit.app)** •
-  **[📁 Report Bug](https://github.com/Bhavana998/AI-Period-Wellness-Tracker/issues)** •
-  **[🔧 Request Feature](https://github.com/Bhavana998/AI-Period-Wellness-Tracker/issues)**
-
-</div>
-
 ---
 
 ## 📋 Table of Contents
