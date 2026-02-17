@@ -140,7 +140,7 @@ Purpose	Analyzes food-symptom relationships
 Identifies	Trigger foods, optimal nutrition
 Features	Calories, protein, fiber, water intake
 File	models/nutrition_predictor.py
-
+                       
 📁 Project Structure
 AI-Period-Wellness-Tracker/
 ├── 📄 app.py                 # Main Streamlit application
@@ -166,7 +166,6 @@ AI-Period-Wellness-Tracker/
 │
 └── 📁 ml_models/                # Saved ML Models
     └── 📁 saved_models/         # Trained model files (.pkl)
-
 📊 How to Use
 📝 Logging Data
 Period Data:
